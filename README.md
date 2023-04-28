@@ -16,7 +16,7 @@ Javascript Dataset property for boolean DOM
  console.log(dataObject.dataset);
  
  // console result 
- DOMSTringMap {
+ DOMStringMap {
    name: "niel"
    expert : "javascript"
  }
