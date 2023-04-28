@@ -24,6 +24,17 @@ Javascript Dataset property for boolean DOM
  
 ```
 
+```JS
+// Select ELement by Attribute
+var element = document.querySelector('[data-name="niel"]');
+
+console.log(element);
+
+// Console.log Result 
+<div id="dataSetID" data-name="niel" data-expert="javascript"></div>
+
+```
+
 <br /> Reference: 
 <br /> https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dataset
 <br /> 
