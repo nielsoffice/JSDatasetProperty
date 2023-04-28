@@ -37,6 +37,7 @@ console.log(element);
 
 <br /> Reference: 
 <br /> https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dataset
+<br /> https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes
 <br /> 
 <br /> Attributes Condition estatement
 <br /> https://developer.mozilla.org/en-US/docs/Web/API/Element/attributes
