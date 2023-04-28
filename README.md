@@ -5,6 +5,7 @@ Javascript Dataset property for boolean DOM
 ```HTML
 
 <div id="dataSetID" data-name="niel" data-expert="javascript">
+ ...
 </div>
 
 ```
@@ -21,7 +22,6 @@ Javascript Dataset property for boolean DOM
    expert : "javascript"
  }
  __proto__ : DOMStringMap
- 
 ```
 
 ```JS
