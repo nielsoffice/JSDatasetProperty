@@ -23,3 +23,21 @@ Javascript Dataset property for boolean DOM
  __proto__ : DOMStringMap
  
 ```
+
+<br /> Reference: 
+<br /> https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dataset
+<br /> 
+<br /> Attributes Condition estatement
+<br /> https://developer.mozilla.org/en-US/docs/Web/API/Element/attributes
+<br /> Get Attribute
+<br /> https://developer.mozilla.org/en-US/docs/Web/API/Element/getAttribute
+<br /> Set Attribute
+<br /> https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute
+<br /> Boolean | hasAttributes
+<br /> https://developer.mozilla.org/en-US/docs/Web/API/Element/hasAttribute
+<br /> removeAttributes
+<br /> https://developer.mozilla.org/en-US/docs/Web/API/Element/removeAttribute
+<br /> removeAttributesNode
+<br /> https://developer.mozilla.org/en-US/docs/Web/API/Element/removeAttributeNode
+
+
